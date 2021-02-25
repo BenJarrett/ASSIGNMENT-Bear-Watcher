@@ -46,3 +46,5 @@ const bearsArr = [
     imageURL: 'https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/04/07113107/Moon-bear-at-the-sanctuary-_credit-Free-the-Bears.jpg',
   },
 ];
+
+export default bearsArr;
